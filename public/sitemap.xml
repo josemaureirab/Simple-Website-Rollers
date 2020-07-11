@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://rollers.cl/</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/event</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/ecommerce</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/encuesta</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/inicio</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/askOne</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/askTwo</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/askThree</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/askFour</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/askFive</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://rollers.cl/tranks</loc>
+  <lastmod>2019-03-28T18:56:58+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+
+
+</urlset>
